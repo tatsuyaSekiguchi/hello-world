@@ -1,3 +1,3 @@
 # hello-world
 test Repojitory
-- this Repojitory created by studeid
+- this Repojitory created for studing
