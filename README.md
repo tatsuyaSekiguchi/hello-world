@@ -1,3 +1,3 @@
 # hello-world
 test Repojitory
-- this Repojitory created for studing
+- this Repojitory is created for studing
